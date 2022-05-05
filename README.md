@@ -51,4 +51,7 @@ Analysis of Baywheels SF bikeshare data
 
 ## Conclusion
 
-Using SQL to analyze rideshare data, we've become well acquainted with the lay of the land in terms of operations and have drawn several actionable insights that will help us provide an ever increasing statisfaction for our users interacting with our products and services.  These queries can be actively recycled and refactored to keep offering Baywheels SF a clear and valuable vision for it's future.
+Using SQL to analyze rideshare data, we've become well acquainted with the lay of the land in terms of operations and have drawn several actionable insights that will help us provide an ever increasing statisfaction for our users' interaction with our products and services.  These queries can be actively recycled and refactored to keep offering Baywheels SF a clear and valuable vision for it's future.
+
+Baywheels-SF-SQL.pptx contains the full PowerPoint presentation.
+The other files (docx and xlsx) contain scratchwork for exploratory process.
