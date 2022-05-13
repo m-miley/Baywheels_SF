@@ -55,3 +55,7 @@ Using SQL to analyze rideshare data, we've become well acquainted with the lay o
 
 Baywheels-SF-SQL.pptx contains the full PowerPoint presentation.  
 The other files (docx and xlsx) contain scratchwork for exploratory process.
+
+### Contact
+
+Email:  mrmileyy@gmail.com
