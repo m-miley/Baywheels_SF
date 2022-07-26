@@ -13,7 +13,7 @@ Analysis of Baywheels SF bikeshare data
 - Use postgreSQL on pgAdmin4 to analyze Lyft bikeshare data and create visualizations in excel.
 - Make suggestions on Distribution, Maintenance, and Model options based on results.
 - Communicate 5-8 minute powerpoint presentation of insights.
-- Query code is included for reference and to display my abilities using this Structured Query Language.
+- SQL Query code is included for reference and to display my abilities using this Structured Query Language.
 
 This project administers postgreSQL on pgAdmin4 to analyze Lyft bikeshare data in San Francisco, CA. Writing SQL queries from the relational database revealed insights to confidently suggest maintenance, distribution, and transportation models. Visualizations created in Excel and presented through PowerPoint amongst a group of peers in a 10 minute presentation.
 
