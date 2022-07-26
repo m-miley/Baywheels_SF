@@ -64,4 +64,5 @@ The other files (docx and xlsx) contain scratchwork for exploratory process.
 
 ### Contact
 
-Email:  mrmileyy@gmail.com
+mrmileyy@gmail.com </br>
+[LinkedIn](https://www.linkedin.com/in/mileymarshall)
