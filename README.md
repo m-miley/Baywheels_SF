@@ -19,21 +19,23 @@ This project administers postgreSQL on pgAdmin4 to analyze Lyft bikeshare data i
 
 ## Analysis
 
+![Screen Shot 2022-07-26 at 10 57 00 AM](https://user-images.githubusercontent.com/100544761/181054244-8879294b-2d2f-4d65-9778-d38b34150d4c.png)
+
 ### Goals:
 
-- Clearly define goals
+- Provide insights that will improve performance and increase efficiency in the following segments
 
 ![Screen Shot 2022-05-05 at 11 01 12 AM](https://user-images.githubusercontent.com/100544761/166965001-88bfbcac-390c-4ece-8ca6-fcfbdbf7b444.png)
 
 ### Summary Statistics:
 
-- Explore data and establish statistical bearings for size and breadth
+- Explore data and establish statistical bearings for data set
 
 ![Screen Shot 2022-05-05 at 11 01 35 AM](https://user-images.githubusercontent.com/100544761/166965109-990c90ab-9851-436f-a686-1c2fa7d2ed52.png)
 
 ### Distribution:
 
-- The criteria below displays the accumulation/depletion rates per station per E.O.D.  Therefore, it's important to redistribute bicycles around the city to ensure that each station is adequately, but not overly, supplied with bicycles for users.  Also, peering into the timestamp aggregation, we can clearly see which hours see peak activity which indicates effective and ineffective times of the day to perform the distributions.
+- The criteria below displays the accumulation/depletion rates per station per E.O.D.  Therefore, it's important to redistribute bicycles around the city to ensure that each station is adequately, but not overly, supplied with bicycles for users.  Also, peering into the timestamp aggregation, we can clearly mark hours of peak activity.  Redistribute bikes during hours of low activity.
 
 ![Screen Shot 2022-05-05 at 11 01 55 AM](https://user-images.githubusercontent.com/100544761/166965247-1776fef4-62c4-4934-bbd7-22f14f684f60.png)
 
@@ -47,13 +49,15 @@ This project administers postgreSQL on pgAdmin4 to analyze Lyft bikeshare data i
 
 ### Bicycle Models
 
-- Based on user type and trip duration, I suggest at least 4 ride models to offer to our customers for maximum experience.  Subscribers generally take shorter rides (likely because they're local, commuting, or familiar with the system) and could benefit from our road bike or scooter options.  On the other hand, customers (singularly funded trips) take longer rides as they are likely visitors touring the city or exploring at leisure and suggests the comforts of touring bikes or electric bikes more fitting.
+- Based on user type and trip duration, I suggest at least 4 ride models to offer to our customers for maximum experience.  Subscribers generally take shorter rides (likely because they're local, commuting, or familiar with the system) and could benefit from our road bike or scooter options.  On the other hand, customers (singularly funded trips) take longer rides as they are likely visitors touring the city or exploring at leisure and suggests the comforts of touring bikes or electric bikes would be more fitting.
 
 ![Screen Shot 2022-05-05 at 11 19 35 AM](https://user-images.githubusercontent.com/100544761/166967954-f449b632-10c6-41a6-8bcb-3aa64026bc82.png)
 
 ## Conclusion
 
 Using SQL to analyze rideshare data, we've become well acquainted with the lay of the land in terms of operations and have drawn several actionable insights that will help us provide an ever increasing statisfaction for our users' interaction with our products and services.  These queries can be actively recycled and refactored to keep offering Baywheels SF a clear and valuable vision for it's future.
+
+![Screen Shot 2022-07-26 at 11 05 30 AM](https://user-images.githubusercontent.com/100544761/181055591-a1aed740-6516-453c-8d85-2863d3639857.png)
 
 Baywheels-SF-SQL.pptx contains the full PowerPoint presentation.  
 The other files (docx and xlsx) contain scratchwork for exploratory process.
